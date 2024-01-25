@@ -11,3 +11,23 @@ body{
    display: flex;
    justify-content: center;
 }
+
+.profileImage{
+    border-radius: 100%;
+    width: 128.5px;
+    height: 128.5px;
+}
+
+.piContainer{
+    background-color: rgb(95,121,112);
+    border-radius: 50%;
+    width: 140px;
+    height: 140px;
+    align-items: center;
+    margin-top: 14px;
+    display:flex;
+    justify-content: center;
+    position: absolute;
+    top:0%;
+    right:54.5%;
+}
