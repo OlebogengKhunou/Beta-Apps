@@ -23,6 +23,7 @@ body {
     position: absolute;
     transform: translate(-50%, -50%); /*center*/
     font-size: 8em;
+    text-transform: uppercase;
 }
 
 .content h2:nth-child(1){
